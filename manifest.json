@@ -3,10 +3,10 @@
   "description": "Bed Rock Entertainments",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Gold - Digger Classic",
+  "name": "Helix Jump Fun",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Gold - Digger Classic",
+  "short_name": "Helix Jump Fun",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,12 +48,9 @@
   ],
   "shortcuts": [
     {
-      "name": "Gold Digger",
-      "url": "https://lutzroeder.github.io/digger/",
-      "description": "Play Gold Digger Classic"
+      "name": "Helix Jump Fun",
+      "url": "",
+      "description": ""
     }
-  ],
-  "display_override": [
-    "window-controls-overlay"
   ]
 }
