@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Game Snacks",
+  "description": "Byte Brilliance",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Helix: Jump Fun",
+  "name": "Helix Jump:Fun",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Helix: Jump Fun",
+  "short_name": "Helix Jump:Fun",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Helix: Jump Fun",
+      "name": "Helix Jump:Fun",
       "url": "",
       "description": ""
     }
